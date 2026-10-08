@@ -2,11 +2,11 @@
   "name": "my-node-project",
   "version": "1.0.0",
   "description": "A Node.js project using Express and Mongoose",
-  "main": "index.js",
+  "main": "Server.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "dev": "node --watch index.js"
+    "start": "node Server.js",
+    "dev": "node --watch Server.js"
   },
   "keywords": [],
   "author": "",
